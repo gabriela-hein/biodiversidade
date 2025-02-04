@@ -1,0 +1,7 @@
+[theme]
+
+prymaryColor= "#B0CBBA" #cor princiapl elemnetos interativos, como botões
+backgroundColor= "#D1DAD1"#cor do fundo
+secondarybackgroundColor ="#BFBAB1"
+textColor = "#232D2D"
+font = "sans serif"
